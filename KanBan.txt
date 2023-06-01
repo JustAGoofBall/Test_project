@@ -2,3 +2,7 @@ to do 				done
 				Image toevoegen: Justin
 				Button Toevoegen: Justin
 				Header Toevoegen: Justin
+
+Informatie schrijven: Dylan
+Footer Toevoegen: Dylan
+Background Toevoegen: Dylan
