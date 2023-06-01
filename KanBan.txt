@@ -3,6 +3,6 @@ to do 				done
 				Button Toevoegen: Justin
 				Header Toevoegen: Justin
 
-Informatie schrijven: Dylan
-Footer Toevoegen: Dylan
-Background Toevoegen: Dylan
+				Informatie schrijven: Dylan
+				Footer Toevoegen: Dylan
+				Background Toevoegen: Dylan
